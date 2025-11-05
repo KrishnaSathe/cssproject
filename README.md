@@ -21,7 +21,6 @@ This project is a front-end exercise. The primary goal was to take a static imag
 
 * **HTML5:** Semantic structure and organization of content.
 * **CSS3:** Advanced layout (Grid & Flexbox), custom properties (variables), and precise styling for a "pixel-perfect" result.
-* **JavaScript:** Minimal, non-obtrusive JS for potential micro-interactions (like the video play button).
 
 This is **not** a functional website; it has no backend, and all content is hardcoded. It serves as a portfolio piece showcasing attention to detail and front-end capabilities.
 
@@ -52,7 +51,6 @@ This clone includes the following sections from the original homepage:
 * **CSS3:** Used for all styling, layout, colors, and fonts.
     * **CSS Flexbox** and **CSS Grid** were heavily used to create the complex, responsive (and non-responsive) layouts.
     * **CSS Variables** were used to maintain a consistent color palette and spacing.
-* **JavaScript:** (Minimal) Intended for any future interactivity, such as a mobile menu toggle or a functional video play button.
 
 ---
 
